@@ -1,7 +1,8 @@
 ### Olá!! Eu sou a Ellen Oliveira 👋 
 ___
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellensolv&show_icons=true&theme=radical)
+![Ellen Oliveira' GitHub stats](https://github-readme-stats.vercel.app/api?username=ellensolv&hide=stars&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellensolv&size_weight=0.5&count_weight=0.5&theme=radical)
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Ellen-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
