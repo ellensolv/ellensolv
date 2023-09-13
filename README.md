@@ -1,7 +1,11 @@
 ### Olá!! Eu sou a Ellen Oliveira 👋 
 ___
-![Ellen Oliveira' GitHub stats](https://github-readme-stats.vercel.app/api?username=ellensolv&hide=stars&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellensolv&size_weight=0.5&count_weight=0.5&theme=radical)
+<div>
+<a href="https://github.com/ellensolv">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellensolv&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellensolv&layout=compact&langs_count=7&theme=radical"/>
+
+</div>
 
 <div style="display: inline_block"><br>
 
@@ -20,4 +24,6 @@ ___
   <a href="https://www.linkedin.com/in/ellen-oliveira-42788228b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  
+
+
+
